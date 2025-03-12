@@ -1,0 +1,39 @@
+*{
+    background-color: rgba(255, 255, 255, 0.932);
+    color: rgb(0, 0, 0);    
+}
+
+h1{
+    color: rgb(255, 72, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+
+h2{
+    color: rgb(255, 72, 0);
+}
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+#Boton1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 124, 72);
+    font-size: larger;
+    caret-color: black;
+    border-width: 0.1cm;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.resaltado{
+    color: rgb(253, 253, 253);
+    background-color: blue;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    height: 600px;
+    width:  900px;
+
+}
